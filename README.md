@@ -9,5 +9,5 @@ positional arguments:
  
 optional arguments:
   -h, --help   show this help message and exit
-  -q, --quiet  verbose
+  -q, --quiet  do not print log lines
 ```
